@@ -363,7 +363,7 @@ MonoBehaviour:
   m_Text: "  Jogo feito por duas alunas do Col\xE9gio T\xE9cnico de Campinas para
     a mat\xE9ria de jogos do sexto semestre. Movimente a bolinha e pegue as moedas,
     mas cuidado: n\xE3o caia da plataforma e n\xE3o deixe os inimigos te tocarem!
-    Divirtam-se!"
+    Divirta-se!"
 --- !u!222 &965768422
 CanvasRenderer:
   m_ObjectHideFlags: 0
